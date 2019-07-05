@@ -1,0 +1,5 @@
+    main: xaronox.deathcoordinates.Main
+    name: DeathCoordinates
+    version: 0.1
+    author: Martin Lutz
+    description: Show death coordinates with the death message.
